@@ -3,7 +3,7 @@ import { BarChart, Bar, LineChart, Line, PieChart, Pie, Cell, XAxis, YAxis, Cart
 import { TrendingUp, TrendingDown, DollarSign, Users, MousePointer, Mail, RefreshCw, Target, Eye, ShoppingCart } from 'lucide-react';
 
 // DEMO DATA - Replace this URL with your Make.com JSON file URL
-const DATA_URL = 'https://gist.githubusercontent.com/zth-haris/f042909db4afac0b79da33829417cc07/raw/5ee0facd124769702a6c6fe2a1be5860246bc36c/whop-data.json';
+const DATA_URL = 'https://gist.githubusercontent.com/zth-haris/f042909db4afac0b79da33829417cc07/raw/cee38da33792f5d7f58110675c52b9701ff97736/whop-data.json';
 const demoData = {
   ltv: 487.50,
   totalRevenue: 45780,
