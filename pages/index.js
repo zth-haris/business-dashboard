@@ -164,7 +164,7 @@ export default function Dashboard() {
         <div className="mb-8">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-4xl font-bold mb-2">Business Dashboard</h1>
+              <h1 className="text-4xl font-bold mb-2">Business Dashboard - Live</h1>
               <p className="text-gray-400">Real-time insights into your business performance</p>
               {DATA_URL === 'REPLACE_WITH_YOUR_JSON_URL' ? (
                 <p className="text-xs text-yellow-600 mt-2">⚡ Using demo data - Update DATA_URL in code to connect real data</p>
